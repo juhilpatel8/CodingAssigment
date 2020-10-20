@@ -41,4 +41,4 @@ example
 
 To run the unit tests
 
-`python test/test_largest_words`
+`python test/test_largest_words.py`
