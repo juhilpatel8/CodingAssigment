@@ -19,6 +19,10 @@ Please make sure you meet the Prerequisites
 
 ### Getting started - How to run Python program?
 
+Setup
+
+Clone the repository: `git clone git@github.com:juhilpatel8/CodingAssigment.git`
+Change to repository folder: `cd CodingAssigment`
 
 If no file is provided the default validInput.txt will be used. To run the script simply run the command.
 
