@@ -1,4 +1,4 @@
-### Find Largest Words from File and Traspose the Largest word
+### Find Largest Words from File and Transpose the Largest word
 
 Python program that takes an input file with words, finds the largest and then transposes that word.
 
