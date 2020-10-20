@@ -5,13 +5,13 @@ Python program that takes an input file with words, finds the largest and then t
 
 ### Pre-Requisite
 
+Program needs Python 3.6 or greater
+
 Check python version 
 
 `python --version`
 
-Program needs Python 3.6 or greater
-
-Local development - Python 3.8.6 is used 
+I have used Python 3.8.6 during development
 
 ### Installing
 
