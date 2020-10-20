@@ -21,8 +21,8 @@ Please make sure you meet the Prerequisites
 
 Setup
 
-Clone the repository: `git clone git@github.com:juhilpatel8/CodingAssigment.git`
-Change to repository folder: `cd CodingAssigment`
+Clone the repository: `git clone https://github.com/juhilpatel8/CodingAssignment.git`
+Change to repository folder: `cd CodingAssignment`
 
 If no file is provided the default validInput.txt will be used. To run the script simply run the command.
 
